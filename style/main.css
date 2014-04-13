@@ -323,7 +323,7 @@ hr {
   .tile.tile-8 .tile-inner {
     background: #ede0c8;
     background: url('../tile-sets/images/8.jpg');
-    background: #f2b179; }
+     }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/images/16.jpg');
