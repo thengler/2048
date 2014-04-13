@@ -321,7 +321,7 @@ hr {
     background: url('../tile-sets/images/4.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
+    background: #ede0c8;
     background: url('../tile-sets/images/8.jpg');
     background: #f2b179; }
   .tile.tile-16 .tile-inner {
