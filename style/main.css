@@ -327,7 +327,7 @@ hr {
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/images/16.jpg');
-    background: #f59563; }
+     }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: url('../tile-sets/images/32.jpg');
